@@ -9,6 +9,7 @@ public class Test01 {
                 System.out.print( i + "*" + j + "=" + i*j +  "\t");
             }
             System.out.println("hello git");
+            System.out.println("github");
         }
     }
 }
