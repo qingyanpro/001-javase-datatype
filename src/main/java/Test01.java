@@ -10,6 +10,7 @@ public class Test01 {
             }
             System.out.println("hello git");
             System.out.println("github");
+            System.out.println("hello github,I am happy to connected.");
         }
     }
 }
